@@ -5,3 +5,4 @@ playlist[artistName] = songTitle
   return playlist
 }
 functions removeFromPlaylist(playlist, artistName)
+delete playlist.artistName 
